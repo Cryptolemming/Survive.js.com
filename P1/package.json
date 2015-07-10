@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "survive.js project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptolemming/Survivejs.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cryptolemming/Survivejs.com/issues"
+  },
+  "homepage": "https://github.com/Cryptolemming/Survivejs.com#readme"
+}
