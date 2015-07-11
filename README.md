@@ -1,2 +1,2 @@
-# Survive.js.com
+# Survivejs.com
 Exercises as part of React + Node + Webpack + Flux book Survive.js at Survivejs.com
